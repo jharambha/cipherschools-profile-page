@@ -1,0 +1,35 @@
+
+.banner{
+   
+   height: 100px;
+   
+   background-image: linear-gradient(to right, rgba(255, 255, 255, 0.70),rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.70)), url('./banner.png');
+   background-repeat: repeat;
+   
+}
+.content{
+    margin: 0px;
+    display: flex;
+    padding: 0px;
+}
+.image{
+    border-radius: 50%;
+    width: 15%;   
+}
+.hello{
+    padding-top: 30px;
+    line-height: 0px;
+    width: 25%;
+    float: left;
+}
+.blank{
+    width: 45%;
+    height: 0px;
+}
+.followers{
+    padding-top: 30px;
+    float: right;
+    width: 15%;
+    padding-right: 0px;
+   
+}

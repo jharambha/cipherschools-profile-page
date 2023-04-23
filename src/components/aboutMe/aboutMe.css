@@ -1,0 +1,57 @@
+h2{
+    font-weight: 200px;}
+.head{
+    display:flex;
+}
+.title{
+    width: 75%;
+}
+.edit-button{
+    width: 25%;
+    margin-top: 20px;
+    
+}
+
+button{
+   
+    border-radius: 5px;
+    background-color: orange;
+    width: 80px;
+    height: 30px;
+    color: #ffff;
+    float: right;
+    border: none;
+  
+}
+.aboutMe{
+     padding: 3%;
+     margin-top: 0px;
+     padding-top: 0px;
+    background-color: rgb(225, 222, 222);
+}
+.typeSec{
+background-color: white;
+width: 100%;
+height: 300px;
+border-radius: 5px;
+align-items: center;
+border: none;
+
+}
+.type{
+    width: 100%;
+height: 300px;
+border-radius: 5px;
+border: none;
+font-size: 20px;
+font-weight: 240px;
+}
+::-webkit-textarea-placeholder {
+    position: relative;
+    bottom: 130px;
+    text-align: start;
+}
+textarea {
+    outline: none;
+    resize: none; 
+}
